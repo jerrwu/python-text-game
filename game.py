@@ -238,7 +238,11 @@ class World:
             elif verb == 'drop':
                 self.drop(noun)
             elif verb == 'go':
-                self.go(noun)   
+                self.go(noun)
+            elif verb == 'save':
+                self.save('save.txt')
+                print('saved to save.txt')
+                return
             else:
                 print( self.msg_verb_fail )
 
@@ -424,6 +428,7 @@ if __name__=='__main__':
         print('-use "go <exit>" to go to <exit>')
         print('-use "take <item>" or "drop <item>" to take or drop items')
         print('-use "quit" to quit')
-        print('-use "game.save(<filename>)" to save after quitting\n\n')
+        print('-use "save" to save\n\n')
         game=load(selection)
-        game.play()    
+        game.play()
+        input('press enter to exit')
