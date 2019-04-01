@@ -1,0 +1,7 @@
+room #1 The Void
+You are in in an infinite expanse of diffuse, white nothingness.  There is nothing to see, nowhere to go, and nothing to do.
+contents
+player #2 Disembodied Consciousness
+You are nothing more than a formless, disembodied point of consciousness floating in an infinite void.
+inventory
+location #1

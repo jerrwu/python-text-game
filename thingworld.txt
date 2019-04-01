@@ -1,0 +1,9 @@
+thing #2 ball
+A red toy rubber ball, about the same size as a baseball.
+room #1 Sealed Box
+You are in in a sealed cubical cell with no apparent exits.  The walls are painted with a comforting floral pattern.
+contents #2
+player #3 Android
+You are a humanoid android, emotionless and infinitely patient.
+inventory
+location #1

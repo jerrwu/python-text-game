@@ -1,0 +1,70 @@
+thing #1 Silk Rope
+A 5-foot-long strand of silk rope
+thing #2 Iron Bar
+A rusted iron bar that can be used as a club
+thing #3 Provoke Fight
+Start a fight with the drow imprisoners
+thing #4 Clay Pot
+Simple clay pottery is stored in your cell to be used as toilets for each prisoner
+thing #5 Chain Shirt
+Conveniently placed chain shirt for escapees to wear in case of an emergency fight
+thing #6 Studded Leather Armour
+Conveniently placed studded leather armour for escapees to wear in case of an emergency fight
+thing #7 Shield
+Conveniently placed shield for escapees to bear in case of an emergency fight
+thing #8 Hand Crossbow
+Conveniently placed hand crossbow for escapees to use in case of an emergency fight
+thing #9 Crossbow bolts
+400 conveniently placed crossbow bolts for escapees to use in case of an emergency fight
+thing #10 Short Sword
+Conveniently placed short sword for escapees to use in case of an emergency fight
+thing #11 Caltrops
+20 conveniently placed caltrops for escapees to use in case of an emergency fight
+thing #12 Building Hammer
+Two builder hammers are left on the ground from two drow builders running from the oncoming prisoner attack
+thing #13 Dagger
+Conveniently placed dagger for escapees to use in case of an emergency fight
+thing #14 Iron Spike
+Conveniently placed iron spike for escapees to use in case of an emergency fight
+thing #15 Sharp Obsidian Rock
+Conveniently placed sharp obsidian rock for escapees to use in case of an emergency fight
+thing #16 Giant Fight!
+A long and tough fight along the imbedded stair case between the escapees and the drow imprisoners, lives will be taken whether we want it or not.
+thing #17 Lore
+The writtings on the wall show you who you were imprisoned with, The first being Eldeth Feldrun, a small female dwarf scout.....*zzzzzz*
+room #101 Slave Pen
+Captured by the drow! You wouldn't wish this fate upon anyone,yet here you are---locked in a dark cave with a few other ragged prisoners.
+contents #1 #2 #3 #4
+room #102 Cross-Walk
+Breaking out from the slave pen wasn't all that hard, but now the entire city is alerted, things could get rough!
+contents
+room #105 Lore
+You cross a bridge from the guard tower into a small room with scribbles on the wall
+contents #17
+room #106 City Streets
+After making it through the massive fight between escapees and drow imprisoners, you find yourself deep underground, wandering the streets of a forgotten drow city. *World is Done*
+contents
+room #103 Guard Tower
+The fourth hanging tower, connected by rope bridges to the slave pen and the walkway alongside the priestess's tower
+contents #5 #6 #7 #8 #9 #10 #11 #12 #13 #14 #15
+room #104 Wall imbedded Stair Case
+You can see the way out into the city streets just up ahead, only it seems to be gaurded by a mass of drow running towards you!
+contents #16
+player #10001 Throk the Barbarian
+Middle-aged half-orc with dark green skin, long messy and greesy hair, few cuts and bruises from imprisonment, and a whole lot of rage pent up
+inventory
+location #101
+keyexit #101 #102 Cross-Walk
+#3 "This iron gate won't budge, gunna need to provoke a fight to get them to open it"
+keyexit #102 #104 Imbedded Staircase
+#10 "I can see a short sword and some armour at the guard tower, might be useful"
+exit #102 #103 Guard Tower
+keyexit #104 #106 Drow City
+#16 "We aren't getting out of here without a fight!"
+exit #103 #105 Lore Room
+exit #105 #103 Guard Tower
+exit #103 #102 Cross-Walk
+exit #104 #102 Cross-Walk
+exit #106 #104 Imbedded Staircase
+
+

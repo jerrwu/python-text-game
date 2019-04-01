@@ -1,0 +1,26 @@
+thing #1 wallet
+A black leather wallet containing a WatCard.
+thing #2 keys
+A metal keyring holding a number of office and home keys.
+thing #3 phone
+A late-model smartphone in a Hello Kitty protective case.
+thing #4 cup of coffee
+A steaming cup of black coffee.
+room #5 Hallway 
+You are in the hallway of a university building. Students are coming and going every which way.
+contents
+room #6 Coffee Shop
+You are in the student-run coffee shop. Your mouth waters as you scan the room, seeing many fine foodstuffs available for purchase.
+contents #4
+room #7 Classroom
+You are in a nondescript university classroom. Students sit in rows at tables, pointedly ignoring the professor, who's shouting and waving their arms about at the front of the room.
+contents
+player #8 Stu Dent
+Stu Dent is an undergraduate Math student at the University of Waterloo, who is excelling at this studies despite the fact that their name is a terrible pun.
+inventory #1 #2 #3
+location #5
+exit #5 #6 shop
+keyexit #5 #7 west
+#4 On second thought, it might be better to grab a cup of coffee before heading to class.
+exit #6 #5 hall
+exit #7 #5 hall

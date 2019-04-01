@@ -1,0 +1,86 @@
+thing #1 keys
+These keys probably belong to a student.
+thing #2 empty cup
+It's an empty cup. It smells vaguely like tea.
+thing #3 Watcard (1)
+It's a student identification card.
+thing #4 Watcard (2)
+It's a student identification card.
+thing #5 Watcard (3)
+It's a student identification card.
+thing #6 Watcard (4)
+It's a student identification card.
+thing #7 Watcard (5)
+It's a student identification card.
+thing #11 Linear Algebra notes
+The handwriting is so neat.
+thing #12 Linear Algebra textbook
+It's just light enough for you to carry, but it's still a bit heavy.
+thing #13 pillow
+It's soft and poofy.
+thing #14 eraser
+A worn out white eraser.
+thing #15 pencil
+A mechanical pencil with 0.7mm lead.
+thing #16 knife
+A nice and sturdy Santoku knife.
+room #1234 Flying
+Where would you like to go?
+contents
+room #5 Residence
+It's one of the university's residences. There are so many buildings here.
+contents #3
+room #7 Residence rooftop
+You're on the roof of a residence building. Below you is an open window.
+contents
+room #8 Student dorm
+Nobody's here. Too bad. Oh well, there's plenty of things you can steal.
+contents #11 #12 #13 #14 #15 #16
+room #1 Field
+You're in the middle of a field.
+contents
+room #2 Field
+There is a road to the east, and more field to the west.
+contents
+room #3 Road
+It's a small road. You see university buildings on the other side.
+contents #2
+room #4 Student Life Centre
+The sign says "Student Life Centre". There is nobody around.
+contents #1
+room #6 Rooftop
+This is the roof of the Student Life Centre. You see several other geese here.
+contents #4 #5 #6 #7
+player #1 Goose
+You are a goose.
+inventory
+location #1
+exit #1 #2 east
+exit #2 #1 west
+exit #2 #3 towards the road
+exit #3 #2 field
+exit #3 #4 buildings
+exit #4 #3 towards the road
+exit #1 #5 residence
+exit #5 #1 field
+exit #5 #7 rooftop
+exit #7 #5 field
+exit #7 #8 dorm
+exit #8 #7 rooftop
+exit #8 #5 field
+exit #4 #6 up
+exit #6 #4 down
+exit #1 #1234 fly
+exit #2 #1234 fly
+exit #3 #1234 fly
+exit #4 #1234 fly
+exit #5 #1234 fly
+exit #6 #1234 fly
+exit #7 #1234 fly
+exit #1234 #1 field
+exit #1234 #2 east field
+exit #1234 #3 road
+exit #1234 #4 Student Life Centre
+exit #1234 #5 V1 residence
+exit #1234 #6 Student Life Centre rooftop
+exit #1234 #7 V1 rooftop

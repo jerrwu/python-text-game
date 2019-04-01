@@ -1,0 +1,140 @@
+thing #101 basketball
+A deflated Spalding basketball.
+thing #102 phone
+It's an iPhone XS Max, don't drop it. Oh and also it's not yours.
+thing #103 cash
+Who just sees money in someone else's car and decides it's something they should take?
+thing #104 vanilla cake
+mmm vanilla cake is your favourite. A note on the cake reads: THIS CAKE REQUIRES PURCHASE. BUY IT OR LEAVE IT IN THE CAKE ISLE.
+thing #105 goose
+This creature is the physical embodiment of all that is evil in this world. I sure hope your plan wasn't to put it in your pocket.
+thing #106 poster
+It's a poster that has your picture. It reads: WANTED FOR NUMEROUS ACCOUNTS OF THEFT.
+thing #107 security guard
+Taking this security guard with you will not make you able to get onto the basketball court. No matter where you decide to drop him.
+thing #108 note
+Code for front door of 316 Nobody Street: 9999. That's your address. You must have so many questions and I promise you there will be no answers.
+thing #109 toothbrush
+Come on, you don't know where this has been.
+thing #110 penny
+Apparently you do have a penny after all. Just one though.
+thing #111 rag
+It isn't hard to tell this is what you blow your nose with... it looks like it hasen't ever been washed or replaced.
+thing #112 plate
+It's a plate.
+thing #113 cup
+It's a cup.
+thing #114 prybar
+Good for opening stuff you forget the key to.
+thing #115 Tesla
+Yes this is a full sized car. Yes you can carry it around wherever you want. No you cannot ride it.
+thing #116 book
+"A Guide to How to Dribble like an NBA Star!" When you have it in your possession you feel like you can compete with the best!
+thing #117 toilet paper
+It's quarter ply toilet paper. 
+room #201 Tunnel
+You're in the tunnel leading onto the basketball court at the Scotiabank Arena. You realize this is where the Toronto Raptors play. Enter the court and you'll face off against the NBA greats.
+contents #106
+room #202 Court
+You feel like you have all of the talents of an NBA player but for some reason security still won't let you on the court. Hmm go figure.
+contents #107
+room #203 Phone Charger
+You found the charger you keep outside your house for emergencies. You plug in your phone and a feeling of calmness washes over you.
+contents
+room #204 Sprint
+The only two places people ever seem to be in a hurry to get to these days.
+contents
+room #205 Uber
+The car reeks of body odour but still you wonder what we would we do without Ubers. The driver asks where you'd like to go and you respond with terrible grammar.
+contents #103
+room #206 Random Washroom
+You obviously haven't learned your lesson about washrooms yet but thankfully the driver waited outside. There are a couple pieces of paper swimming around in the toilet.
+contents #108
+room #207 Grocery Store
+A store famous for its books and cakes. There are geese running around through the aisles causing havoc.
+contents #105 #116
+room #208 Cake Aisle
+This grocery store has a whole aisle of cake. You tell others you think it's excessive but secretly you love it.
+contents #104
+room #209 Porch
+You're on the porch to your house. 
+contents
+room #210 Washroom
+It's a nice little washroom... you're a little lost though. Next time you'll probably think twice about sprinting blindly to the nearest washroom.
+contents #109
+room #211 Field
+Completely lost.
+contents
+room #212 Building
+Totally lost.
+contents
+room #213 Room
+Totally completely lost.
+contents
+room #214 Gaping Hole
+Dude where are you? Hopefully you've now figured out you're going to have to restart the game. Try to hold it till you get home next time ok?
+contents
+room #215 Living Room
+The first room in your house. The TV is cracked, the couch is ripped, items are scattered around, there's muddy footsteps lining the floor. Ahh, just how you left it.
+contents #101 #110
+room #216 Kitchen
+The second room in your house. You tend to keep a single plate and a single glass on the counter.
+contents #112 #113
+room #217 Fridge
+It's empty.
+contents
+room #218 Washroom
+The third room in your house. You feel there should be more than three rooms but then you remember you're poor. Mostly you just use this washroom as storage for your prybar.
+contents #114
+room #219 Shed
+A dusty old shed.
+contents #115
+room #220 Cupboard
+Congrats, you broke into this cupboard just to get to a big pile of toilet paper. Was it worth it?
+contents #117
+player #301 Generic Human
+You like cake and playing on your phone, you don't have a penny to your name. Your biggest accomplishment is befriending an Uber driver who gives you rides for free.
+inventory #102 #111
+location #209
+keyexit #201 #202 court
+#116 You aren't very confident about your skill level right now.
+keyexit #202 #201 tunnel 
+#116 You shouldn't leave the book here or you may never have the confidence to come back.
+exit #201 #205 uber
+exit #205 #201 basketball court
+exit #201 #204 sprint
+exit #204 #203 phone charger 
+exit #204 #210 washroom
+exit #210 #211 walk
+exit #211 #212 walk 
+exit #212 #213 walk
+exit #213 #214 walk 
+exit #203 #209 porch
+exit #205 #207 grocery store
+exit #205 #206 closest washroom
+exit #205 #209 house
+exit #206 #205 uber
+exit #207 #208 cake aisle
+exit #208 #207 main store
+keyexit #207 #205 uber
+#104 You really really REALLY want cake. 
+keyexit #209 #219 shed
+#114 You lost the keys to this shed a long time ago.
+keyexit #219 #209 porch 
+#114 That prybar came in pretty handy, you may want to keep it around.
+keyexit #206 #220 cupboard
+#114 The cupboard is is fixed shut.
+keyexit #220 #206 washroom
+#114 Take the evidence.
+keyexit #209 #215 inside
+#108 Your door has a code lock on it - advanced technology for such a cruddy house. You doubt you would ever be able to remember the code unless you were looking right at it.
+keyexit #215 #209 outside 
+#108 You'll never be able to get back in if you don't take the code with you.
+exit #215 #216 kitchen
+exit #216 #215 living room
+exit #216 #217 fridge
+exit #217 #216 kitchen
+exit #216 #218 washroom
+exit #218 #216 kitchen
+exit #209 #205 uber
+exit #209 #203 phone charger
